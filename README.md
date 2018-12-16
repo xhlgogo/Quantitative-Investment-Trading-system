@@ -7,4 +7,12 @@
 ### 2.Momentum Crashes：在市场萧条的熊市和震荡反弹的行情中，静态的动量交易策略收益会有明显下滑，出现负收益。
 ### 3.Dynamic Momentum Strategy：针对动量交易策略失效时的解决方案为构建动态权重的动量交易策略，基于原静态动量交易策略的均值和方差的预测，对原策略的Alpha和Sharpe Ratio有了近两倍的提高。
 
+## 二、“量化投资交易策略分析与系统设计”课程作业
+### 0.作业内容为实现\<trading system>中的量化交易系统
+### 1.上海黄金期货主力合约净值曲线图
+![净值曲线图](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/picture/SHFE.AU-%E5%87%80%E5%80%BC%E6%9B%B2%E7%BA%BF%E5%9B%BE.png)
+### 2.上海黄金期货主力合约回撤比例柱状图
+![回撤比例柱状图](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/picture/SHFE.AU-%E5%9B%9E%E6%B5%8B%E6%AF%94%E4%BE%8B%E6%9F%B1%E7%8A%B6%E5%9B%BE.png)
+### 3.Luxor交易系统时间窗口优化图
+![TimeFilter](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/picture/TimeFilter.png)
 
