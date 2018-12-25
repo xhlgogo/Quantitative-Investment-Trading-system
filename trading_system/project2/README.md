@@ -3,7 +3,7 @@
 ### 2.	read_backtest_json(path_name)函数用于读取掘金客户端回撤结果的json文件，统计题目要求的各项指标；
 ### 3.	回测时间为'2016-10-20 09:15:00'~ '2018-11-24 15:00:00'，手续费用通过backtest_commission_ratio设置；
 ### 4.	Fast=10，Slow=20，frequency = "900s"，不考虑交易成本：
-![2.1.a](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/tree/master/trading_system)
+![2.1.a](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project2/2.1.a.png)
 ### 5.	Fast=10，Slow=20，frequency = "900s"，考虑交易成本0.0005：
 ![2.1.b](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project2/2.1.b.png)
 
@@ -26,7 +26,7 @@
 
 ## 四、	题目4
 ### 1.	solution.py中，调用MAE(path_name)函数，读取回测文件”回测-TimeFilter.json”，绘制MAE如图：
-![2.4.1](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project2/2.4.1.png)https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project2/2.4.1.png）
+![2.4.1](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project2/2.4.1.png)
 ### 2.	solution.py中，调用stop_loss(path_name)，读取回测文件”回测-TimeFilter.json”，绘制不同止损比例下NetProfit/MaxDD的变化图：
 ![2.4.2](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project2/2.4.2.png)
 ### 3.	确定每次交易的StopLoss比例为0.15%
