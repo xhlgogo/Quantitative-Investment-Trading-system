@@ -29,8 +29,7 @@
 End_Time |	17-11	| 17-12	| 18-01	| 18-02	| 18-03	| 18-04	| 18-05
 -------- | :----: | :---: |-----: | :---: | :---: | :---: | :---:
 Fast	   |    2   |   2   |   2   |    2  |   2   |  2    |  2
--------- | :----: | :---: |-----: | :---: | :---: | :---: | :---:
-Fast	   |    16  |   16  |   17  |    16 |   16  |  17   |  17
+Slow	   |    16  |   16  |   17  |    16 |   16  |  17   |  17
 ### 6.	Out_of_Sample，随后半年为参数测试窗口，调用walkforward_test(path,walk_name)函数统计：
 ![4.3](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project3/4.3.png)
 
@@ -42,15 +41,14 @@ Fast	   |    16  |   16  |   17  |    16 |   16  |  17   |  17
 End_Time |	17-11	| 17-12	| 18-01	| 18-02	| 18-03	| 18-04	| 18-05
 -------- | :----: | :---: |-----: | :---: | :---: | :---: | :---:
 Fast	   |    2   |   2   |   2   |    2  |   2   |  2    |  2
--------- | :----: | :---: |-----: | :---: | :---: | :---: | :---:
-Fast	   |    16  |   16  |   17  |    16 |   16  |  17   |  16
+Slow	   |    16  |   16  |   17  |    16 |   16  |  17   |  16
 ### 5.	Out_of_Sample，随后半年为参数测试窗口，调用walkforward_test(path,walk_name)函数统计：
 ![4.4](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project3/4.4.png)
 
 ## 五、	题目5
 ### 1.	对比：除最后一个月其他参数均相同（各窗口最优与次优有差异，略去不提）
-![4.5.1](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project3/4.3.1.png)
-![4.5.2](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project3/4.3.2.png)
+![4.5.1](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project3/4.5.1.png)
+![4.5.2](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project3/4.5.2.png)
 
 ## 六、	题目6
 ### 若将优化窗口缩短为半年，最优系统参数大概率会与优化窗口为1年的不同，绩效指标会可能会变差。
