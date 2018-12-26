@@ -30,6 +30,7 @@
 累加收益 |	年化收益	| 夏普率	| 最大回撤	| 开仓次数	| 胜率
 ------- | :-------: | :----: |--------: | :------: | :-----:
 172.85% |   82.45%  |   3.27 |   3.70%  |    434   | 52.33% 
+
 ![4.3.1](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.3.1.png)
 ![4.3.2](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.3.2.png)
 ![4.3.3](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.3.3.png)
@@ -37,6 +38,7 @@
 累加收益 |	年化收益	| 夏普率	| 最大回撤	| 开仓次数	| 胜率
 ------- | :-------: | :----: |--------: | :------: | :-----:
 224.84% |  116.82%  |   3.19 |   4.73%  |    436   | 52.33% 
+
 ![4.3.4](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.3.4.png)
 ![4.3.5](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.3.5.png)
 ![4.3.6](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.3.6.png)
@@ -44,6 +46,7 @@
 累加收益 |	年化收益	| 夏普率	| 最大回撤	| 开仓次数	| 胜率
 ------- | :-------: | :----: |--------: | :------: | :-----:
 988.41% |  471.59%  |   2.86 |   9.31%  |    434   | 51.84% 
+
 ![4.3.7](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.3.7.png)
 ![4.3.8](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.3.8.png)
 ![4.3.9](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.3.9.png)
@@ -64,6 +67,7 @@ Ryan Jones, fixed ratio lots = constant * squareroot(account-size)
 累加收益 |	年化收益	| 夏普率	| 最大回撤	| 开仓次数	| 胜率
 ------- | :-------: | :----: |--------: | :------: | :-----:
 184.75% |  88.15%   |   3.19 |   3.75%  |    434   | 51.84% 
+
 ![4.4.1](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.4.1.png)
 ![4.4.2](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.4.2.png)
 ![4.4.3](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.4.3.png)
@@ -71,6 +75,7 @@ Ryan Jones, fixed ratio lots = constant * squareroot(account-size)
 累加收益 |	年化收益	| 夏普率	| 最大回撤	| 开仓次数	| 胜率
 ------- | :-------: | :----: |--------: | :------: | :-----:
 172.07% |  82.10%   |   3.17 |   3.72%  |    430   | 52.33% 
+
 ![4.4.4](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.4.4.png)
 ![4.4.5](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.4.5.png)
 ![4.4.6](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.4.6.png)
@@ -78,6 +83,7 @@ Ryan Jones, fixed ratio lots = constant * squareroot(account-size)
 累加收益 |	年化收益	| 夏普率	| 最大回撤	| 开仓次数	| 胜率
 ------- | :-------: | :----: |--------: | :------: | :-----:
 176.79% |  84.35%   |   3.27 |   3.79%  |    435   | 52.33% 
+
 ![4.4.7](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.4.7.png)
 ![4.4.8](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.4.8.png)
 ![4.4.9](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.4.9.png)
