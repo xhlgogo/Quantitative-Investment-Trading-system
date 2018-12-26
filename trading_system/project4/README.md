@@ -53,14 +53,14 @@
 #### 4.	随着容忍损失的增大，收益率上升、夏普率下降、最大回撤增加
 
 ## 四、	题目4
-### 1.	书上对于两种仓位管理的比较是：＜/br＞
-Ralph Vince, fixed fractional lots = constant * account-size ＜/br＞
+### 1.	书上对于两种仓位管理的比较是：
+Ralph Vince, fixed fractional lots = constant * account-size 
 Ryan Jones, fixed ratio lots = constant * squareroot(account-size)
 ### 2.	固定盈利额比例资金管理时交易手数的推导：
 ![4.4](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project4/4.4.png)
-###   即我们只需根据累计盈利 P 和初始手数 N0 以及增加 1 手交易所需的盈利额delta即可确定交易手数。这里我们的 N0 设为初始资金 100 万的10%仓位，即 7手。Delta 可随时调整，决定了加仓速率的快慢。
-### 3.	加仓逻辑：＜/br＞
-持仓总资金只有在获利给定比例时（浮动盈亏>delta），才会继续加仓一手。＜/br＞
+   即我们只需根据累计盈利 P 和初始手数 N0 以及增加 1 手交易所需的盈利额delta即可确定交易手数。这里我们的 N0 设为初始资金 100 万的10%仓位，即 7手。Delta 可随时调整，决定了加仓速率的快慢。
+### 3.	加仓逻辑：
+持仓总资金只有在获利给定比例时（浮动盈亏>delta），才会继续加仓一手。
 策略代码见project持仓总资金只有在获利给定比例时（浮动盈亏>delta），才会继续加仓一手。
 ### 5.	project4_4.py，使用context.account().positions()获取当前持仓方向和浮动盈亏，在没有均线上穿或下穿时，判断是否达到加仓条件，每次加仓100股；
 #### 1)	权益增加1000（1千）：
