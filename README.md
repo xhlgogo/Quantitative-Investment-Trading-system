@@ -15,7 +15,7 @@
 #### 个人独立完成，以下为部分结果：
 #### 1）Fast=10，Slow=20，frequency = "900s"，考虑交易成本0.0005：
 ![2.1.b](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project2/2.1.b.png)
-#### 2）Fast=2, Slow，TimeFilter时间窗口过滤：
+#### 2）Fast=2, Slow=20，TimeFilter时间窗口过滤：
 ![2.3.1](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project2/2.3.1.png)
 #### 3）TimeScale数据频率选取：
 ![4.1.1](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project3/4.1.1.png)
