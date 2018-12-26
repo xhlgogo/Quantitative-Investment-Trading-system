@@ -21,21 +21,20 @@
 ![4.1.1](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project3/4.1.1.png)
 ![4.1.2](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project3/4.1.2.png)
 #### 4）Anchored walk forward analysis，连续窗口最优参数训练期、测试期分析：
-训练期最优参数：
+##### 训练期最优参数：
 End_Time |	17-11	| 17-12	| 18-01	| 18-02	| 18-03	| 18-04	| 18-05
 -------- | :----: | :---: |-----: | :---: | :---: | :---: | :---:
 Fast	   |    2   |   2   |   2   |    2  |   2   |  2    |  2
 Slow	   |    16  |   16  |   17  |    16 |   16  |  17   |  17
-
-测试期结果：
+##### 测试期结果：
 ![4.3](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project3/4.3.png)
 #### 5）Rolling walk forward analysis，滚动窗口最优参数训练期、测试期分析：
-训练期最优参数：
+##### 训练期最优参数：
 End_Time |	17-11	| 17-12	| 18-01	| 18-02	| 18-03	| 18-04	| 18-05
 -------- | :----: | :---: |-----: | :---: | :---: | :---: | :---:
 Fast	   |    2   |   2   |   2   |    2  |   2   |  2    |  2
 Slow	   |    16  |   16  |   17  |    16 |   16  |  17   |  16
-
+##### 测试期结果：
 ![4.4](https://github.com/xhlgogo/Quantitative-Investment-Trading-system/blob/master/trading_system/project3/4.4.png)
 #### 6)Ralph Vince仓位管理，固定最大风险金额比例为 5%：
 累加收益 |	年化收益	| 夏普率	| 最大回撤	| 开仓次数	| 胜率
